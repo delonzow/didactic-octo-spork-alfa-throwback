@@ -2,11 +2,11 @@
 // alert('Garflix is live!'); 
 
 var characters = [
-  'Garfield',
-  'Odie',
-  'Jon',
-  'Nermal',
-  'Arlene'
+  'PaRappa',
+  'PJ',
+  'Sunny',
+  'Katy',
+  'Joe'
 ];
 
 // picks a random character line from the array and logs it

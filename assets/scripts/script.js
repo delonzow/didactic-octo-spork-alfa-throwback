@@ -1,5 +1,5 @@
 // old school reminder that JS is hooked up
-// alert('Garflix is live!'); 
+// alert('PaRappa is live!'); 
 
 var characters = [
   'PaRappa',
